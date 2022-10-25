@@ -1,0 +1,13 @@
+DROP TABLE Cards;
+
+DROP TABLE Accounts;
+
+DROP TABLE Users;
+
+DROP TABLE Statuses;
+
+DROP TABLE Offices;
+
+DROP TABLE Towns;
+
+DROP TABLE Banks;
